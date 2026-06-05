@@ -1,0 +1,31 @@
+[
+    {
+        "name": "championnat",
+        "location": "Lyon",
+        "starting_date": "26-05-2026",
+        "finish_date": "27-05-2026",
+        "number_of_rounds": 4,
+        "current_round": 0,
+        "description": "",
+        "list_of_players": [
+            {
+                "name": "barraud",
+                "first_name": "fréderic",
+                "birthday": "19-09-1968",
+                "chess_id": "FB25143"
+            },
+            {
+                "name": "barraud",
+                "first_name": "élie",
+                "birthday": "06-07-2007",
+                "chess_id": "EB13498"
+            }
+        ],
+        "rounds": [],
+        "scores": {
+            "FB25143": 0.0,
+            "EB13498": 0.0
+        },
+        "finished": false
+    }
+]
