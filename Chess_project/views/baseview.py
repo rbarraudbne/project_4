@@ -68,4 +68,3 @@ class BaseView:
 
     def display_error(self, message: str):
         print(f"\n  ✗ {message}\n")
-

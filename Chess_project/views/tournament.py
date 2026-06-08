@@ -168,4 +168,5 @@ class TournamentView(BaseView):
             msg_error="Choix invalide.",
             value_type="selection",
             assertions=["0", "1", "2", "q"],
+
         )
